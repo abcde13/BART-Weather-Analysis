@@ -1,6 +1,5 @@
 .httr-oauth
 
-*.csv
 .Rhistory
 .Rproj.user/
 .RData
